@@ -9,6 +9,7 @@
 // @namespace      http://joncollins.name/
 // @include        http://slog.thestranger.com/*/archives/*
 // @include        http://lineout.thestranger.com/*/archives/*
+// @include        http://www.thestranger.com/*/archives/*
 // @include        http://www.thestranger.com/seattle/Comments?*
 // @include        http://www.thestranger.com/seattle/*/Content?*
 // @include        http://www.thestranger.com/seattle/SavageLove?*
