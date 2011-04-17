@@ -2,7 +2,7 @@
 // @name           Registered Commenter Filter for Slog and Line Out
 // @description    Filters commenters and nests replies
 // @icon           https://github.com/jonathancollins/the-stranger-greasemonkey/raw/a0fd7337551e5d843a9af2e8d9c28776183c8283/icon32.png
-// @version        2.0.0
+// @version        2.0.1
 // @author         Jonathan Collins
 // @copyright      2011 Jonathan Collins
 // @attribution    Commenter filter idea and prototype by Dennis and Katrin Bratland
@@ -17,6 +17,11 @@
 // @require        http://sizzlemctwizzle.com/updater.php?id=48588
 // ==/UserScript==
 
+// Version 2.0.1
+//
+// * Fixed nesting not working with more than 2 comments referenced on a single @/#
+// * Added "SHARE VIA" URL
+//
 // Version 2.0.0
 //
 // * Added option to enable/disable comment nesting using #N and @N references
