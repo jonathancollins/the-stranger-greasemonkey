@@ -6,4 +6,4 @@ Through DOM injection, this userscript provides "hide" links next to each commen
 
 ## Reply nesting
 
-By examining commonly-used #N and @N references, this userscript seamlessly converts a long, flat list of comments into a manageable thread with nested replies.
+This userscript converts the flat, numbered comments into manageable threads with nested replies, using cues like "@4" or "#7" in the comment text.
