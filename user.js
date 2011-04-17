@@ -16,7 +16,6 @@
 // @require        http://sizzlemctwizzle.com/updater.php?id=48588
 // ==/UserScript==
 
-//
 // Version 2.0.0
 //
 // * Added option to enable/disable comment nesting using #N and @N references
